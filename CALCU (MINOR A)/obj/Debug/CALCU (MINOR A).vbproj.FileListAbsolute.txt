@@ -1,0 +1,13 @@
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\bin\Debug\CALCU (MINOR A).exe.config
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\bin\Debug\CALCU (MINOR A).exe
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\bin\Debug\CALCU (MINOR A).pdb
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\bin\Debug\CALCU (MINOR A).xml
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU (MINOR A).vbproj.AssemblyReference.cache
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU (MINOR A).vbproj.SuggestedBindingRedirects.cache
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU__MINOR_A_.Form1.resources
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU__MINOR_A_.Resources.resources
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU (MINOR A).vbproj.GenerateResource.cache
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU (MINOR A).vbproj.CoreCompileInputs.cache
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU (MINOR A).exe
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU (MINOR A).xml
+C:\Users\elean\Downloads\MFI (2022-2023)\VISUAL BASIC\ACTIVITIES\CALCU (MINOR A)\CALCU (MINOR A)\obj\Debug\CALCU (MINOR A).pdb
